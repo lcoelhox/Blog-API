@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do projeto API de Blogs!
+# Boas-vindas ao repositório do projeto API de Blogs! :tv:
 
 ## Sobre
 Projeto desenvolvido em NodeJs, usando o pacote sequelize, onde criei uma API e um banco de dados para a produção de conteúdo para um blog. Utilizando a arquitetura MSC (model-service-controller), e criei um sistema de gerenciamento onde foi possivel criar, visualizar, deletar e atualizar produtos e vendas. Utilizei o banco de dados MySQL para a gestão de dados.
